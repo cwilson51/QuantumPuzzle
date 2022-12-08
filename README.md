@@ -1,7 +1,7 @@
 # QuantumPuzzle
 
-## Report Overleaf Link
-https://www.overleaf.com/2398217677dbqnyjjjvqht
+## Final Report
+The final report pdf is in the repository. The paper was also featured on the CSC 2451 project showcase: http://henryyuen.net/classes/fall2019/
 
 ## Required Packages
 check requirements.txt
